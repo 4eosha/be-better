@@ -1,4 +1,3 @@
-# Resource Pack Template
+# Be Better - Minecraft resourcepack
 
-- Use this to start a resource pack, other formats are on seperate branches.
-- Download the pack format version you need from the [releases page](https://github.com/Love-and-Tolerance/Resource-Pack-template/releases/latest). 
+- Я начал создавать ресурспак, который улучшит майнкрафт, добавит в него приятных деталей и атмосферы.
